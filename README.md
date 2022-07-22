@@ -1,2 +1,2 @@
 # Computer-Vision-Projects
-A collection of jupyter notebooks where I share the projects I am currently doing.
+A collection of jupyter notebooks where I share the projects I am currently learning/doing.
